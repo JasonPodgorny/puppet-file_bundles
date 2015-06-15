@@ -13,6 +13,8 @@ class { 'file_bundles':
 }
 ```
 
+Second, you have to put the files you are copying into the files folder of the module:
+
 Example hiera YAML file:
 ```
 ---
